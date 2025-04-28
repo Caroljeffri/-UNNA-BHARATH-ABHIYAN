@@ -1,7 +1,7 @@
-UBA Project Report
+UBA Project Report: 
 This repository contains the project report for the Unnat Bharat Abhiyan (UBA) initiative undertaken as part of our community development efforts.
 
-Project Title
+Project Title:
 Use of Simple Technology to Improve Quality of Life in Rengarajapuram Colony village.
 
 Description
